@@ -44,7 +44,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashanand1000/CampGround-Website
+   git clone https://github.com/tejas-parmar-24/Tourism-Portal.git
    ```
 2. Install NPM packages
    ```sh
