@@ -22,7 +22,6 @@ Yelp Camp is a web application that allows you to view campgrounds with a short 
 - [Nodejs](https://nodejs.org/en/)
 - [EJS](https://ejs.co/)
 - [MongoDB](https://www.mongodb.com/)
-- 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
