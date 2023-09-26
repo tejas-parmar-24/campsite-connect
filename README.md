@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <p align="center">
-    <b>YelpCamp Campgrounds</b>
+    <b>campsite connect</b>
     <br />
 </div>
 
