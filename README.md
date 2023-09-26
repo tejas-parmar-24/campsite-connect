@@ -11,7 +11,7 @@
 
 ## About The Project
 
-Yelp Camp is a web application that allows you to view campgrounds with a short description. Once you login or signup you can begin to create your own campgrounds that includes a title, image, address and short description. Explore the beautiful world through our website
+campsite-connect is a web application that allows you to view campgrounds with a short description. Once you login or signup you can begin to create your own campgrounds that includes a title, image, address and short description. Explore the beautiful world through our website
 
 
 ### Built With
@@ -44,13 +44,14 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/tejas-parmar-24/Tourism-Portal.git
-   ```
-2. Install NPM packages
+
+   git clone https://github.com/tejas-parmar-24/campsite-connect
+      ```
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Check the .env.example file and make your .env file
+4. Check the .env.example file and make your .env file
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
